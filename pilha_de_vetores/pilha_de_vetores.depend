@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647387703 source:c:\users\noeme\onedrive\documentos\desafio_uri\pilha_de_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

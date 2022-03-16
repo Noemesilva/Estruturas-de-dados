@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647382775 source:c:\users\noeme\onedrive\documentos\desafio_uri\lista_dinamica_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
